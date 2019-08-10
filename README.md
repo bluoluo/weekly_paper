@@ -8,7 +8,7 @@
   - [标题名称](https://github.com/L-Bai/weekly_paper/blob/master/README.md#标题名称)
   
 - Papers
-  - [2019](https://github.com/hoya012/deep_learning_object_detection/blob/master/README.md#2019)
+  - [2019](https://github.com/L-Bai/weekly_paper/blob/master/README.md#2019)
   
 ##
 
