@@ -5,10 +5,10 @@
 
 ## Table of Contents
 - 模板
-  - [标题](https://github.com/L-Bai/weekly_paper/blob/master/README.md#标题)
+  - [标题](https://github.com/bluoluo/weekly_paper/blob/master/README.md#标题)
   
 - Papers
-  - [2019](https://github.com/L-Bai/weekly_paper/blob/master/README.md#2019)
+  - [2019](https://github.com/bluoluo/weekly_paper/blob/master/README.md#2019)
   
 ##
 
